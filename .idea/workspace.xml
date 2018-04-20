@@ -3,6 +3,47 @@
   <component name="ChangeListManager">
     <list default="true" id="6f029c08-8995-49d1-b596-4c7bb2bc9b3e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517047945.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517048429.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517048532.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517049776.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517051305.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517051505.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517051671.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517051893.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517058641567244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517213508.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517213724.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517213903.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517213910.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/1517214261.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/clue-api.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/desktop-fiesta-skqf9msu88t49529.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/desktop-fiesta-skqf9msu88t49529.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/desktop-fiesta.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/gdtevent.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/getbid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/hm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/meiqia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/met_temdemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/metinfo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/metinfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/online.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/pc_nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/poll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/showproduct.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_files/v.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,6 +55,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -23,10 +67,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="999" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-57" />
+    <option name="y" value="15" />
+    <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -81,24 +125,26 @@
       <option name="presentableId" value="Default" />
       <updated>1523531541448</updated>
       <workItem from="1523531542854" duration="1161000" />
-      <workItem from="1523582694361" duration="2367000" />
+      <workItem from="1523582694361" duration="5341000" />
+      <workItem from="1524190864507" duration="1885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3528000" />
+    <option name="totallyTimeSpent" value="8387000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1264489" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1264489" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50052685" side_tool="true" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50105375" side_tool="true" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49894625" visible="true" weight="0.3293348" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -115,5 +161,24 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

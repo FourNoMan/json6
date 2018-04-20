@@ -121,11 +121,12 @@ function metTemDemo(){
 					$demo_iframe_load.parentNode.removeChild($demo_iframe_load);
 					var demo_iframe_window=$demo_iframe.contentWindow,
 						demo_iframe_document=demo_iframe_window.document,
+						$shop_buy=demo_iframe_window.document.getElementsByClassName('shop-btn')[0],
 						$met_demo_head=demo_iframe_window.document.getElementsByClassName('met-demo-head')[0],
 						$showmore_demo_head=demo_iframe_window.document.getElementsByClassName('showmore-demo-head')[0],
 						$hide_demo_head=demo_iframe_window.document.getElementsByClassName('hide-demo-head')[0],
 						$close_demo_head=demo_iframe_window.document.getElementsByClassName('close-demo-head')[0],
-						$demo_option_a=demo_iframe_window.document.getElementsByClassName('demo-option')[0].getElementsByTagName('a'),
+						$demo_option_btn=demo_iframe_window.document.getElementsByClassName('demo-option')[0].getElementsByClassName('btn'),
 						$html=document.getElementsByTagName('html')[0],
 						$demo_iframe_body=demo_iframe_window.document.body,
 						$showmeqia=demo_iframe_window.document.getElementsByClassName('showmeqia')[0],
@@ -187,7 +188,8 @@ function metTemDemo(){
 						// 导航展开
 						$demo_iframe.onmouseover=function(){
 							removeClass($met_demo_head,'padding-0');
-							removeClass($demo_option_a,'hide');
+							removeClass($demo_option_btn,'hide');
+							removeClass($hide_demo_head,'hide');
 							addClass($showmore_demo_head,'hide');
 							removeClass($demo_iframe,'iframe-min');
 						};
@@ -195,9 +197,10 @@ function metTemDemo(){
 						$hide_demo_head.onclick=function(event) {
 							addClass($demo_iframe,'iframe-min');
 							addClass($met_demo_head,'padding-0');
-							addClass($demo_option_a,'hide');
+							addClass($demo_option_btn,'hide');
+							addClass($hide_demo_head,'hide');
 							removeClass($showmore_demo_head,'hide');
-							removeClass($close_demo_head,'hide');
+							removeClass($shop_buy,'hide');
 							setTimeout(function(){
 								$demo_iframe.style.height='50px';
 							},50)
